@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   repo: marynaost/test-gatsby
   branch: main
-   commit_messages:
+  commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
     delete: "Delete {{collection}} “{{slug}}”"
